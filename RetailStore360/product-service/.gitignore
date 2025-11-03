@@ -1,0 +1,20 @@
+# Maven
+target/
+*.iml
+.idea/
+*.log
+
+# IntelliJ
+*.iws
+*.ipr
+out/
+
+# Spring Boot
+*.class
+
+# Lombok
+lombok.config
+
+# PostgreSQL local
+*.db
+*.sql
